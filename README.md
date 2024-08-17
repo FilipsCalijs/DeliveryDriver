@@ -26,13 +26,3 @@ This project is designed to teach the basics of game development in Unity. We wi
 
 To familiarize with Unity and gain hands-on experience in game development. Suitable for beginners.
 
-## Installation
-
-1. Clone the repository.
-2. Open the project in Unity.
-3. Run the project and follow the instructions.
-
-## Requirements
-
-- Unity 2021.3 or later
-- Basic knowledge of C#
