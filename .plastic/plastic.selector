@@ -1,0 +1,4 @@
+repository "Delivery@mrgoldfil@cloud"
+  path "/"
+    br "/main"
+    co "/main"
