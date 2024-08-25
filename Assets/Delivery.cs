@@ -8,8 +8,8 @@ public class Delivery : MonoBehaviour
     Debug.Log("ouch!");
 
    }
-    private void OnTriggerEnter2D(Collider2D other) {
-       Debug.Log("What was that?!");    
+    void OnTriggerEnter2D(Collider2D other) {
+ 
         if (other.tag == "Package")
         {
             Debug.Log("Package picked up");
