@@ -6,6 +6,8 @@ TagManager:
   tags:
   - package
   - customer
+  - Package
+  - Customer
   layers:
   - Default
   - TransparentFX
