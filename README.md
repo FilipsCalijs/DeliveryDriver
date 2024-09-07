@@ -25,5 +25,3 @@ This project is designed to teach the basics of game development in Unity. We wi
 ## Goal
 
 To familiarize with Unity and gain hands-on experience in game development. Suitable for beginners.
-
-streak
